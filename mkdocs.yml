@@ -1,7 +1,7 @@
 site_name: Build your own MacroPad
-site_url: https://michielr.gitlab.io/BuildYourOwnMacroPad
+site_url: https://itenium.be/BuildYourOwnMacroPad
 site_dir: public
-repo_url: https://gitlab.com/michielr/BuildYourOwnMacroPad/
+repo_url: https://github.com/itenium-be/BuildYourOwnMacroPad
 repo_name: BuildYourOwnMacroPad
 nav:
   - Home: "index.md"
@@ -10,6 +10,7 @@ nav:
   - Rotary encoder: "rotary-encoder.md"
   - Keyboard switches: "switches.md"
   - Assembly: "assembly.md"
+  - Finishing touches: "finishing-touches.md"
 theme:
   name: material
   palette:
