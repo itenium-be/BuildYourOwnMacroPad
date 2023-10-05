@@ -12,12 +12,18 @@ To make it a bit easier on ourselves (it'll be hard enough already 😃) we'll s
 
 These are tiny pins we can plug things into later.
 
-HEADERS IMAGE
+![Headers](assets/headers.jpg "Photo")
 
 Start by making sure you've got 2 rows of 7 pins. Then we'll fit these onto our board, and then stick this upside down onto a breadboard.
 
-PHOTOS OF HEADERS LOOSE AND THEN IN BREADBOARD
+![Headers](assets/headers-fitted.jpg "Photo")
+
+![Headers](assets/headers-breadboard.jpg "Photo")
 
 Once the board and headers are firmly in their place we'll solder all 14 pins. I'll come by to get everyone started, but make sure to have a look at [this short guide](https://www.makerspaces.com/how-to-solder/).
+
+![Headers](assets/headers-soldering.jpg "Photo")
+
+![Headers](assets/headers-finished.jpg "Photo")
 
 **Next up** installing the [required software](software-setup.md), and making an LED blink!

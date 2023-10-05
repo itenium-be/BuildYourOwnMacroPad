@@ -8,17 +8,16 @@ Each one of these switches needs 2 wires soldered to them.
 
 First we'll prepare the wires, grab 6 of the long jumper wires and cut them in 3 pieces.
 
-PHOTO OF JUMPER WIRES WITH CUT LINES
+![Wires](assets/wires-cut.jpg "Photo")
 
 Next we'll strip the wires, you should have 12 in total.
-
-PHOTO OF STRIP
-
 Now we'll solder the wires to our switches, this can be a bit tricky. I like to fold a small loop on the end of the stripped wire and then hook it over the pin of the switch and hold it in place with helping hands or tweezers.
 
-PHOTO OF HOOKED WIRE
+![Wires](assets/switch-hook.jpg "Photo")
 
-PHOTO OF SETUP
+![Wires](assets/switch-prepare.jpg "Photo")
+
+![Wires](assets/switch-solder.jpg "Photo")
 
 ## Wiring it up
 
