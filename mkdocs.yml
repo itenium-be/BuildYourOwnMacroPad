@@ -1,0 +1,39 @@
+site_name: Build your own MacroPad
+site_url: https://michielr.gitlab.io/BuildYourOwnMacroPad
+site_dir: public
+repo_url: https://gitlab.com/michielr/BuildYourOwnMacroPad/
+repo_name: BuildYourOwnMacroPad
+nav:
+  - Home: "index.md"
+  - Solder headers: "solder-headers.md"
+  - Software setup: "software-setup.md"
+  - Rotary encoder: "rotary-encoder.md"
+  - Keyboard switches: "switches.md"
+  - Assembly: "assembly.md"
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
