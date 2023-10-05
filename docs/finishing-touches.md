@@ -3,6 +3,7 @@
 We're building a macro pad, not a tiny keyboard, so we still have to add some finishing touches to our software.
 
 In the code provided I've mapped the keys to:
+
 - Open windows explorer
 - Minimize all your windows
 - Lock your PC

@@ -2,9 +2,7 @@
 
 We'll build our own macropad in this session. We'll mostly focus on learning to solder and putting everything together.
 
-If we have some time left over, you're more than welcome to get started on the software (well, since this is an electronics project, we'll call it firmware from now on) side as well!
-
-If programming isn't your thing, skip the firmware section and go straight to [give me the code!](givemethecode.md)
+The firmware part is also described, if writing software isn't your thing, ask for some help to get the final code on your device. It's located in the [repository](https://github.com/itenium-be/BuildYourOwnMacroPad).
 
 ## The goal
 
