@@ -11,6 +11,7 @@ nav:
   - Keyboard switches: "switches.md"
   - Assembly: "assembly.md"
   - Finishing touches: "finishing-touches.md"
+  - Parts list: "parts-list.md"
 theme:
   name: material
   palette:

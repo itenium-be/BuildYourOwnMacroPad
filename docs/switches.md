@@ -19,6 +19,10 @@ Now we'll solder the wires to our switches, this can be a bit tricky. I like to 
 
 ![Wires](assets/switch-solder.jpg "Photo")
 
+Lastly we'll need to solder a common ground. Solder 8 header pins together by weaving a wire between the short side of the pins and then solder the wire to each pin.
+
+![Wires](assets/common-ground.jpg "Photo")
+
 ## Wiring it up
 
 Follow the wiring diagram to connect everything together. Every keyboard switch should have one pin going to the common ground (bottom of the image) and one pin to the microcontroller (pins 0 to 5).

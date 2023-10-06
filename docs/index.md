@@ -20,3 +20,5 @@ A functioning macropad with 6 customizable hotkeys and a clickable volume knob.
 6. And finally the [finishing-touches](finishing-touches.md)!
 
 Good luck!
+
+I've added a [parts list](parts-list.md) as well, if you ever want to build another macro pad.
