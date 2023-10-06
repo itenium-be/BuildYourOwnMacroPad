@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://itenium.be/BuildYourOwnMacroPad/</loc>
-         <lastmod>2023-10-05</lastmod>
+         <lastmod>2023-10-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://itenium.be/BuildYourOwnMacroPad/assembly/</loc>
-         <lastmod>2023-10-05</lastmod>
+         <lastmod>2023-10-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://itenium.be/BuildYourOwnMacroPad/finishing-touches/</loc>
-         <lastmod>2023-10-05</lastmod>
+         <lastmod>2023-10-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://itenium.be/BuildYourOwnMacroPad/parts-list/</loc>
+         <lastmod>2023-10-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://itenium.be/BuildYourOwnMacroPad/rotary-encoder/</loc>
-         <lastmod>2023-10-05</lastmod>
+         <lastmod>2023-10-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://itenium.be/BuildYourOwnMacroPad/software-setup/</loc>
-         <lastmod>2023-10-05</lastmod>
+         <lastmod>2023-10-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://itenium.be/BuildYourOwnMacroPad/solder-headers/</loc>
-         <lastmod>2023-10-05</lastmod>
+         <lastmod>2023-10-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://itenium.be/BuildYourOwnMacroPad/switches/</loc>
-         <lastmod>2023-10-05</lastmod>
+         <lastmod>2023-10-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
